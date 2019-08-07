@@ -1,0 +1,497 @@
+/*
+ * 
+ * Custom EMS icons for Ext Apps
+ * 
+ * */
+.messages-title {
+	background:#D8D8D8 none repeat scroll 0 0;
+	color:#000000;
+	font-family:tahoma,arial,verdana,sans-serif;
+	font-size:12px;
+	font-weight:normal;
+	line-height:normal;
+	margin:2px;
+	padding:3px;
+}
+ 
+.message-body{
+    background:#F8F8F8 none repeat scroll 0 0;
+    border:1px dotted #CCCCCC;    
+    line-height:20px;
+    margin:2em;
+    padding:3px;
+}
+
+
+
+.icon-acept{
+	background-image: url(../img/iconsapp/icon_acept.png) !important ;
+}
+
+.icon-addfavoritequery{
+	background-image: url(../img/iconsapp/icon_addFavoriteQuery.png) !important ;
+}
+
+.icon-addreport{
+	background-image: url(../img/iconsapp/icon_addReport.png) !important ;
+}
+
+.icon-addschema{
+	background-image: url(../img/iconsapp/icon_addSchema.png) !important ;
+}
+
+.icon-addtablespace{
+	background-image: url(../img/iconsapp/icon_addTablespace.png) !important ;
+}
+
+.icon-aggregate{
+	background-image: url(../img/iconsapp/icon_aggregate.png) !important ;
+}
+
+.icon-analyzetables{
+	background-image: url(../img/iconsapp/icon_analyzeTables.png) !important ;
+}
+
+.icon-applanguage{
+	background-image: url(../img/iconsapp/icon_selectLanguage.png) !important ;
+}
+
+.icon-backupdb{
+	background-image: url(../img/iconsapp/icon_backUp.png) !important ;
+}
+
+.icon-basetype{
+	background-image: url(../img/iconsapp/icon_baseType.png) !important ;
+}
+
+.icon-btnnext{
+	background-image: url(../img/iconsapp/icon_btnNext.png) !important ;
+}
+
+.icon-btnpicksingle{
+	background-image: url(../img/iconsapp/icon_btnPickSingle.png) !important ;
+}
+
+.icon-btnprev{
+	background-image: url(../img/iconsapp/icon_btnPrev.png) !important ;
+}
+
+.icon-btnselectall{
+	background-image: url(../img/iconsapp/icon_btnSelectAll.png) !important ;
+}
+
+.icon-btnunpicksingle{
+	background-image: url(../img/iconsapp/icon_btnUnpickSingle.png) !important ;
+}
+
+.icon-btnunselectall{
+	background-image: url(../img/iconsapp/icon_btnUnselectAll.png) !important ;
+}
+
+.icon-cancel{
+	background-image: url(../img/iconsapp/icon_cancel.png) !important ;
+}
+
+.icon-cascade{
+	background-image: url(../img/iconsapp/icon_cascade.png) !important ;
+}
+
+.icon-clear{
+	background-image: url(../img/iconsapp/icon_clear.png) !important ;
+}
+
+.icon-closeall{
+	background-image: url(../img/iconsapp/icon_closeAll.png) !important ;
+}
+
+.icon-clustertable{
+	background-image: url(../img/iconsapp/icon_clusterTable.png) !important ;
+}
+
+.icon-compile{
+	background-image: url(../img/iconsapp/icon_compile.png) !important ;
+}
+
+.icon-compositetype{
+	background-image: url(../img/iconsapp/icon_compositeType.png) !important ;
+}
+
+.icon-connect{
+	background-image: url(../img/iconsapp/icon_connect.png) !important ;
+}
+
+.icon-create{
+	background-image: url(../img/iconsapp/icon_create.png) !important ;
+}
+
+.icon-createdb{
+	background-image: url(../img/iconsapp/icon_createDB.png) !important ;
+}
+
+.icon-createviewontable{
+	background-image: url(../img/iconsapp/icon_createViewOnTable.png) !important ;
+}
+
+.icon-databases{
+	background-image: url(../img/iconsapp/icon_databases.png) !important ;
+}
+
+.icon-dbexplorer{
+	background-image: url(../img/iconsapp/icon_DBExplorer.png) !important ;
+}
+
+.icon-dbstatistics{
+	background-image: url(../img/iconsapp/icon_dbstatistics.png) !important ;
+}
+
+.icon-dependencytree{
+	background-image: url(../img/iconsapp/icon_dependencyTree.png) !important ;
+}
+
+.icon-disconnect{
+	background-image: url(../img/iconsapp/icon_disconnect.png) !important ;
+}
+
+.icon-domain{
+	background-image: url(../img/iconsapp/icon_domain.png) !important ;
+}
+
+.icon-dropdb{
+	background-image: url(../img/iconsapp/icon_dropDB.png) !important ;
+}
+
+.icon-duplicateobject{
+	background-image: url(../img/iconsapp/icon_duplicateObject.png) !important ;
+}
+
+.icon-editoroptions{
+	background-image: url(../img/iconsapp/icon_editorOptions.png) !important ;
+}
+
+.icon-enumtype{
+	background-image: url(../img/iconsapp/icon_enumType.png) !important ;
+}
+
+.icon-enviromentoptions{
+	background-image: url(../img/iconsapp/icon_enviromentOptions.png) !important ;
+}
+
+.icon-exportdata{
+	background-image: url(../img/iconsapp/icon_exportData.png) !important ;
+}
+
+.icon-exportsqlscript{
+	background-image: url(../img/iconsapp/icon_exportSqlScript.png) !important ;
+}
+
+.icon-externaltools{
+	background-image: url(../img/iconsapp/icon_externalTools.png) !important ;
+}
+
+.icon-extractdb{
+	background-image: url(../img/iconsapp/icon_extractDb.png) !important ;
+}
+
+.icon-favoritequery{
+	background-image: url(../img/iconsapp/icon_favoriteQuery.png) !important ;
+}
+
+.icon-find{
+	background-image: url(../img/iconsapp/icon_find.png) !important ;
+}
+
+.icon-findoption{
+	background-image: url(../img/iconsapp/icon_findOption.png) !important ;
+}
+
+.icon-findnextobject{
+	background-image: url(../img/iconsapp/icon_findNextObject.png) !important ;
+}
+
+.icon-function{
+	background-image: url(../img/iconsapp/icon_function.png) !important ;
+}
+
+.icon-grantmanager{
+	background-image: url(../img/iconsapp/icon_grantManager.png) !important ;
+}
+
+.icon-groupmanager{
+	background-image: url(../img/iconsapp/icon_groupManager.png) !important ;
+}
+
+.icon-htmlreport{
+	background-image: url(../img/iconsapp/icon_htmlReport.png) !important ;
+}
+
+.icon-importdata{
+	background-image: url(../img/iconsapp/icon_importData.png) !important ;
+}
+
+.icon-index{
+	background-image: url(../img/iconsapp/icon_index.png) !important ;
+}
+
+.icon-keyboardtemplate{
+	background-image: url(../img/iconsapp/icon_keyboardTemplate.png) !important ;
+}
+
+.icon-language{
+	background-image: url(../img/iconsapp/icon_language.png) !important ;
+}
+
+.icon-menuabout{
+	background-image: url(../img/iconsapp/icon_menuAbout.png) !important ;
+}
+
+.icon-menudirect{
+	background-image: url(../img/iconsapp/icon_menuDirect.png) !important ;
+}
+
+.icon-menuemail{
+	background-image: url(../img/iconsapp/icon_menuEmail.png) !important ;
+}
+
+.icon-menuexit{
+	background-image: url(../img/iconsapp/icon_menuExit.png) !important ;
+}
+
+.icon-menuhelp{
+	background-image: url(../img/iconsapp/icon_menuHelp.png) !important ;
+}
+
+.icon-menuhomepage{
+	background-image: url(../img/iconsapp/icon_menuHomePage.png) !important ;
+}
+
+.icon-newfolder{
+	background-image: url(../img/iconsapp/icon_newFolder.png) !important ;
+}
+
+.icon-newobject{
+	background-image: url(../img/iconsapp/icon_newObject.png) !important ;
+}
+
+.icon-newquerybuilder{
+	background-image: url(../img/iconsapp/icon_newQueryBuilder.png) !important ;
+}
+
+.icon-newsqleditor{
+	background-image: url(../img/iconsapp/icon_newSqlEditor.png) !important ;
+}
+
+.icon-newsqlscript{
+	background-image: url(../img/iconsapp/icon_newSqlScript.png) !important ;
+}
+
+.icon-newtab{
+	background-image: url(../img/iconsapp/icon_newTab.png) !important ;
+}
+
+.icon-newtrigger{
+	background-image: url(../img/iconsapp/icon_newTrigger.png) !important ;
+}
+
+.icon-nextwindow{
+	background-image: url(../img/iconsapp/icon_nextWindow.png) !important ;
+}
+
+.icon-objectproperties{
+	background-image: url(../img/iconsapp/icon_objectProperties.png) !important ;
+}
+
+.icon-operator{
+	background-image: url(../img/iconsapp/icon_operator.png) !important ;
+}
+
+.icon-previouswindow{
+	background-image: url(../img/iconsapp/icon_previousWindow.png) !important ;
+}
+
+.icon-printmetadata{
+	background-image: url(../img/iconsapp/icon_printMetadata.png) !important ;
+}
+
+.icon-recent{
+	background-image: url(../img/iconsapp/icon_recent.png) !important ;
+}
+
+.icon-refresh{
+	background-image: url(../img/iconsapp/icon_refresh.png) !important ;
+}
+
+.icon-registerdb{
+	background-image: url(../img/iconsapp/icon_registerDB.png) !important ;
+}
+
+.icon-registerhost{
+	background-image: url(../img/iconsapp/icon_registerHost.png) !important ;
+}
+
+.icon-registrationinfo{
+	background-image: url(../img/iconsapp/icon_registrationInfo.png) !important ;
+}
+
+.icon-reload{
+	background-image: url(../img/iconsapp/icon_reload.gif) !important ;
+}
+
+.icon-reindextable{
+	background-image: url(../img/iconsapp/icon_reindexTable.png) !important ;
+}
+
+.icon-report{
+	background-image: url(../img/iconsapp/icon_report.png) !important ;
+}
+
+.icon-reportdesigner{
+	background-image: url(../img/iconsapp/icon_reportDesigner.png) !important ;
+}
+
+.icon-restoredb{
+	background-image: url(../img/iconsapp/icon_restore.png) !important ;
+}
+
+.icon-rule{
+	background-image: url(../img/iconsapp/icon_rule.png) !important ;
+}
+
+.icon-save{
+	background-image: url(../img/iconsapp/icon_save.png) !important ;
+}
+
+.icon-savedata{
+	background-image: url(../img/iconsapp/icon_saveData.png) !important ;
+}
+
+.icon-savesettings{
+	background-image: url(../img/iconsapp/icon_saveSettings.png) !important ;
+}
+
+.icon-savetofile{
+	background-image: url(../img/iconsapp/icon_saveToFile.png) !important ;
+}
+
+.icon-schema{
+	background-image: url(../img/iconsapp/icon_schema.png) !important ;
+}
+
+.icon-searchbycategory{
+	background-image: url(../img/iconsapp/icon_searchByCategory.png) !important ;
+}
+
+.icon-sequence{
+	background-image: url(../img/iconsapp/icon_sequence.png) !important ;
+}
+
+.icon-serverconfig{
+	background-image: url(../img/iconsapp/icon_serverConfig.png) !important ;
+}
+
+.icon-serverstatus{
+	background-image: url(../img/iconsapp/icon_serverStatus.png) !important ;
+}
+
+.icon-setdefault{
+	background-image: url(../img/iconsapp/icon_setDefault.png) !important ;
+}
+
+.icon-showhost{
+	background-image: url(../img/iconsapp/icon_showHost.png) !important ;
+}
+
+.icon-showquerybuilder{
+	background-image: url(../img/iconsapp/icon_queryBuilder.png) !important ;
+}
+
+.icon-showsqleditor{
+	background-image: url(../img/iconsapp/icon_showSqlEditor.png) !important ;
+}
+
+.icon-showtablesubobjects{
+	background-image: url(../img/iconsapp/icon_showTableSubObjects.png) !important ;
+}
+
+.icon-sqlassistant{
+	background-image: url(../img/iconsapp/icon_SQLAssistant.png) !important ;
+}
+
+.icon-sqlmonitor{
+	background-image: url(../img/iconsapp/icon_sqlMonitor.png) !important ;
+}
+
+.icon-sqlscript{
+	background-image: url(../img/iconsapp/icon_sqlScript.png) !important ;
+}
+
+.icon-table{
+	background-image: url(../img/iconsapp/icon_table.png) !important ;
+}
+
+.icon-tablespace{
+	background-image: url(../img/iconsapp/icon_tablespace.png) !important ;
+}
+
+.icon-tablesubobjects{
+	background-image: url(../img/iconsapp/icon_tableSubObjects.png) !important ;
+}
+
+.icon-tilehorizontal{
+	background-image: url(../img/iconsapp/icon_tileHorizontal.png) !important ;
+}
+
+.icon-tilevertical{
+	background-image: url(../img/iconsapp/icon_tileVertical.png) !important ;
+}
+
+.icon-tipofday{
+	background-image: url(../img/iconsapp/icon_tipOfDay.png) !important ;
+}
+
+.icon-todolist{
+	background-image: url(../img/iconsapp/icon_toDoList.png) !important ;
+}
+
+.icon-trigger{
+	background-image: url(../img/iconsapp/icon_trigger.png) !important ;
+}
+
+.icon-truncatetable{
+	background-image: url(../img/iconsapp/icon_truncateTable.png) !important ;
+}
+
+.icon-unregisterdb{
+	background-image: url(../img/iconsapp/icon_unregisterDB.png) !important ;
+}
+
+.icon-unregisterhost{
+	background-image: url(../img/iconsapp/icon_unregisterHost.png) !important ;
+}
+
+.icon-usermanager{
+	background-image: url(../img/iconsapp/icon_userManager.png) !important ;
+}
+
+.icon-vacuumtables{
+	background-image: url(../img/iconsapp/icon_vacuumTables.png) !important ;
+}
+
+.icon-view{
+	background-image: url(../img/iconsapp/icon_view.png) !important ;
+}
+
+.icon-viewmode{
+	background-image: url(../img/iconsapp/icon_viewMode.png) !important ;
+}
+
+.icon-visualdbdesigner{
+	background-image: url(../img/iconsapp/icon_visualDBDesigner.png) !important ;
+}
+
+.icon-visualoptions{
+	background-image: url(../img/iconsapp/icon_visualOption.png) !important ;
+}
+
+.icon-windowlist{
+	background-image: url(../img/iconsapp/icon_windowList.png) !important ;
+}

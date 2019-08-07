@@ -1,0 +1,22 @@
+ #header-div{
+    border:0 none;
+    background:#1E4176 url(resources/images/hd-bg.gif) repeat-x 0 0;
+    padding-top:3px;
+    padding-left:3px;
+}
+.docs-header .x-panel-body {
+    background:transparent;
+}
+
+
+
+#header-div .api-title {
+    font:normal 16px tahoma, arial, sans-serif;
+    color:white;
+    margin:5px 0px;
+    text-align:center;
+    height: 25px;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+}
