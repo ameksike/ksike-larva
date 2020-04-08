@@ -6,6 +6,17 @@ Ksike arises as a need to obtain a platform for the construction of applications
 [For more information read the book also known as Develop Manual](tools/help/manual.de.desarrollo-v1.0.pdf)
 ![Screenshot](tools/help/readme/portadas_carta_130120_larva.jpg)
 
+
+There are other editions of this framework oriented to other technologies such as PHP, JAVA, Python. The main idea is to keep the same concepts in the development of computer applications.
+
+![Screenshot](tools/help/readme/baner.png)
+
++ [Ksike Framework: Larva](https://github.com/ameksike/ksike.larva)
++ [Ksike Framework: Elephant focus on PHP](https://github.com/ameksike/ksike.elephant)
++ [Ksike Framework: Rhino focus on JavaScript and Node](https://github.com/ameksike/ksike.rhino.framework) 
++ [Ksike Framework: focus on Java](https://github.com/ameksike/ksike.java.core.plugin)
+
+
 ## ............................................................................
 
 Primera entrega de la serie de versionado para el proyecto Ksike, define modelos conceptuales de desarrollo de aplicaciones web.
