@@ -17,14 +17,18 @@ There are other editions of this framework oriented to other technologies such a
 + [Ksike Framework: Coffee Cup - focus on Java](https://github.com/ameksike/ksike.java.core.plugin)
 
 
+### Similar projects 
++ [Zeotool: Microframework developed to develop php based CLI applications](https://github.com/ameksike/zeotool)
++ [Apayus: PHP Microframework implemented to develop custom web applications](https://github.com/ameksike/apayus)
++ [Bhike: Integrated Development Environment (IDE) for Ksike Framewok](https://github.com/ameksike/bhike)
 
 
-## ............................................................................
+#
 
 Primera entrega de la serie de versionado para el proyecto Ksike, define modelos conceptuales de desarrollo de aplicaciones web.
 
 Ksike surge como necesidad de obtener una plataforma para la co nstrucción de aplicaciones orientadas a entornos web, enfocado en maximizar el rendimiento y agilizar el proceso de desarrollo. Sin embargo esto no debería de ir en decremento de la solidez del mismo, permitiendo soportar cualquier tipo de sistema indiferentemente de la lógica de negocio que este necesite gestionar. Otros de los elementos a tener en cuenta es que es sumamente extensible y fomenta la consistencia de código entre los desarrolladores. Partiendo de la idea de que potencia el desarrollo de productos de software basados en el paradigma de OOP y por ende todas las ventajas que este provee. 
 
-## ............................................................................
+#
 
 ![Screenshot](tools/help/readme/ksike.png)
